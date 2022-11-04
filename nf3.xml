@@ -1,0 +1,604 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2019</field>
+            <field name="Value">0.6192</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2018</field>
+            <field name="Value">0.4944312</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2017</field>
+            <field name="Value">0.4328208</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Value">0.2473704</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2015</field>
+            <field name="Value">0.06192</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2014</field>
+            <field name="Value">0.1854504</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2013</field>
+            <field name="Value">0.151044896</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2012</field>
+            <field name="Value">0.151044896</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2011</field>
+            <field name="Value">0.151044896</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2010</field>
+            <field name="Value">0.151044896</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2009</field>
+            <field name="Value">0.159715358724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2008</field>
+            <field name="Value">0.168385821276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2007</field>
+            <field name="Value">0.177056284</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2006</field>
+            <field name="Value">0.185726746724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2005</field>
+            <field name="Value">0.194397209276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2004</field>
+            <field name="Value">0.203067672</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2003</field>
+            <field name="Value">0.211738134724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2002</field>
+            <field name="Value">0.220408597276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2001</field>
+            <field name="Value">0.22907906</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2000</field>
+            <field name="Value">0.237749522724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1999</field>
+            <field name="Value">0.246419985276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1998</field>
+            <field name="Value">0.255090448</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1997</field>
+            <field name="Value">0.263760910724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1996</field>
+            <field name="Value">0.272431373276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1995</field>
+            <field name="Value">0.281101836</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1994</field>
+            <field name="Value">0.289772298724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1993</field>
+            <field name="Value">0.298442761276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1992</field>
+            <field name="Value">0.307113224</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1991</field>
+            <field name="Value">0.315783686724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">1990</field>
+            <field name="Value">0.324454149276</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2019</field>
+            <field name="Value">10.290631531996</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2018</field>
+            <field name="Value">12.250677260052</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2017</field>
+            <field name="Value">7.637445688</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Value">5.838358196</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2015</field>
+            <field name="Value">6.233806664</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2014</field>
+            <field name="Value">6.3714992</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2013</field>
+            <field name="Value">10.6296</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2012</field>
+            <field name="Value">20.3992</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2011</field>
+            <field name="Value">31.3556</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2010</field>
+            <field name="Value">32.1296</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2009</field>
+            <field name="Value">24.9572</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2008</field>
+            <field name="Value">46.354</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2007</field>
+            <field name="Value">42.1056</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2006</field>
+            <field name="Value">29.756</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2005</field>
+            <field name="Value">31.2696</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2004</field>
+            <field name="Value">35.544820182568</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2003</field>
+            <field name="Value">30.46698872794</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2002</field>
+            <field name="Value">35.544820182568</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2001</field>
+            <field name="Value">28.445694444368</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2000</field>
+            <field name="Value">19.891693827152</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1999</field>
+            <field name="Value">28.409592493876</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1998</field>
+            <field name="Value">21.155172237272</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1997</field>
+            <field name="Value">17.176894665864</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1996</field>
+            <field name="Value">11.460804045004</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1995</field>
+            <field name="Value">6.259923881192</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1994</field>
+            <field name="Value">24.129661090956</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1993</field>
+            <field name="Value">21.936055537264</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1992</field>
+            <field name="Value">19.94186867024</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1991</field>
+            <field name="Value">18.1289715184</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">1990</field>
+            <field name="Value">16.480883198436</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2019</field>
+            <field name="Value">10.9564</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2018</field>
+            <field name="Value">11.7476</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2017</field>
+            <field name="Value">11.5068</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2016</field>
+            <field name="Value">11.1456</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2015</field>
+            <field name="Value">11.8852</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2014</field>
+            <field name="Value">20.2788</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2013</field>
+            <field name="Value">16.0304</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2012</field>
+            <field name="Value">35.207000092</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2011</field>
+            <field name="Value">61.206666636</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2010</field>
+            <field name="Value">61.433666732</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2009</field>
+            <field name="Value">29.081333268</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2008</field>
+            <field name="Value">29.595868</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2007</field>
+            <field name="Value">12.0228</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2006</field>
+            <field name="Value">27.83992</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2005</field>
+            <field name="Value">34.48944</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2004</field>
+            <field name="Value">22.814366724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2003</field>
+            <field name="Value">19.377233276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2002</field>
+            <field name="Value">12.219166724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2001</field>
+            <field name="Value">7.820266724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2000</field>
+            <field name="Value">8.91605</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1999</field>
+            <field name="Value">6.685066724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1998</field>
+            <field name="Value">7.583766724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1997</field>
+            <field name="Value">7.8518</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1996</field>
+            <field name="Value">7.221133276</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1995</field>
+            <field name="Value">5.289716724</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1994</field>
+            <field name="Value">6.88</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1993</field>
+            <field name="Value">6.88</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1992</field>
+            <field name="Value">6.88</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1991</field>
+            <field name="Value">6.88</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">1990</field>
+            <field name="Value">6.88</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2019</field>
+            <field name="Value">261.47267993636</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2018</field>
+            <field name="Value">282.49689981178</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2017</field>
+            <field name="Value">449.775297609784</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2016</field>
+            <field name="Value">634.435284118484</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2015</field>
+            <field name="Value">571.03108219646</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2014</field>
+            <field name="Value">1122.86733856963</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2013</field>
+            <field name="Value">1617.23736567399</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2012</field>
+            <field name="Value">1511.85224938292</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2011</field>
+            <field name="Value">1800.37996890664</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2010</field>
+            <field name="Value">1539.74147154892</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2009</field>
+            <field name="Value">1354.15539751926</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2008</field>
+            <field name="Value">1481.03965386692</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2007</field>
+            <field name="Value">1586.7974562836</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2006</field>
+            <field name="Value">1401.31374395054</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2005</field>
+            <field name="Value">1471.7527115608</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2004</field>
+            <field name="Value">486.03833940564</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2003</field>
+            <field name="Value">416.09627155916</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2002</field>
+            <field name="Value">371.482833062316</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2001</field>
+            <field name="Value">294.812910487684</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2000</field>
+            <field name="Value">285.772616078876</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1999</field>
+            <field name="Value">315.26917107368</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1998</field>
+            <field name="Value">188.134668087492</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1997</field>
+            <field name="Value">171.059350425156</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1996</field>
+            <field name="Value">192.5541310511</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1995</field>
+            <field name="Value">201.094098845872</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1994</field>
+            <field name="Value">76.08965902286</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1993</field>
+            <field name="Value">43.47980515592</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1992</field>
+            <field name="Value">32.60985386694</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1991</field>
+            <field name="Value">32.60985386694</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">1990</field>
+            <field name="Value">32.60985386694</field>
+        </record>
+    </data>
+</ROOT>
